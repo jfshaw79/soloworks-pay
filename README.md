@@ -27,4 +27,3 @@ third-party link service.
 No framework, no build step, no npm dependencies — plain static files plus
 one Pages Function. Connected to Cloudflare Pages for auto-deploy on push to
 `main`.
-
